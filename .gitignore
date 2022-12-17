@@ -1,3 +1,10 @@
+# All Vivado Project Files Except Source Code
+*.cache
+*.hw
+*.ip_user_files
+*.sim
+*.jou
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +134,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+.swc
+
